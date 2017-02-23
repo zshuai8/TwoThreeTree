@@ -1,0 +1,11 @@
+insert Bukka White<SEP>Bukka White's first song
+print tree
+insert Sleepy John Estes<SEP>Street Car Blues
+insert Bukka White<SEP>Bukka White's second song
+insert Another Bukka White<SEP>Bukka White's first song
+insert Bukka White<SEP>Bukka White's third song
+insert Another Bukka White<SEP>Bukka White's second song
+insert Bukka White<SEP>Bukka White's fourth song
+insert Another Bukka White<SEP>Bukka White's third song
+insert Johnny Winter<SEP>Bukka White's first song
+print tree

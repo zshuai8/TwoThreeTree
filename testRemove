@@ -1,0 +1,4 @@
+insert 123<SEP>GGG
+print tree
+delete 123<SEP>GGG
+print tree

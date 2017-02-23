@@ -1,0 +1,215 @@
+insert 3 Doors Down<SEP>Sarah Yellin
+insert Chris Clark<SEP>If You Should Walk Away
+insert Loop Guru<SEP>The Mystery Epoch
+insert All Time Low<SEP>Shameless
+insert Cheo Feliciano<SEP>Juguete
+insert Jesus Jones<SEP>All The Answers
+insert Rita Chiarelli<SEP>Doggin Around
+insert Liquid Stranger<SEP>Drop Sacrifice
+insert Cheo Feliciano<SEP>Juguete
+insert Loop Guru<SEP>The Mystery Epoch
+remove artist Loop Guru
+list artist Loop Guru
+insert Funeral For A Friend<SEP>Your Revolution Is A Joke
+insert Tiny Bradshaw<SEP>Well Oh Well
+insert Happy Mondays<SEP>Wrote For Luck (12 - Remastered version)
+insert Sister Hazel<SEP>Cerilene
+insert DJ Quik<SEP>Born and Raised In Compton
+insert Bruce Rowland<SEP>Mountain Theme
+insert Loop Guru<SEP>The Mystery Epoch
+insert Aeoliah<SEP>For Your Passion My Love
+insert Mr. Lif<SEP>For You
+list song Cerilene
+insert Dons<SEP>American Lovebite
+print tree
+insert Akon<SEP>Over The Edge
+print tree
+list song Shameless
+list artist All Time Low
+insert Charlie Peacock<SEP>Down in the Lowlands
+insert Dons<SEP>American Lovebite
+insert Dons<SEP>American Lovebite
+remove artist Dons
+print tree
+remove song American Lovebite
+print tree
+insert Loop Guru<SEP>The Mystery Epoch
+insert Paula Santoro<SEP>The Girl From Ipanema (Garota De Ipanema)
+insert Gary Moore<SEP>What Are We Here For
+insert Sister Hazel<SEP>Cerilene
+insert Gary Moore<SEP>What Are We Here For
+insert Funeral For A Friend<SEP>Your Revolution Is A Joke
+insert Samy Deluxe<SEP>Die Meisten
+insert Dons<SEP>American Lovebite
+insert Delirious<SEP>God You Are My God
+insert Gary Moore<SEP>What Are We Here For
+print tree
+insert Aeoliah<SEP>For Your Passion My Love
+insert Chris Clark<SEP>If You Should Walk Away
+insert Samy Deluxe<SEP>Die Meisten
+insert Chris Clark<SEP>If You Should Walk Away
+insert Cheo Feliciano<SEP>Juguete
+insert Cheo Feliciano<SEP>Juguete
+insert Gary Moore<SEP>What Are We Here For
+print tree
+insert Funeral For A Friend<SEP>Your Revolution Is A Joke
+insert Kings Of Leon<SEP>Wicker Chair
+insert 8Ball & MJG<SEP>Pimpin Dont Fail Me Now [Featuring Jazze Pha and Juvenile] (Explicit Album Version)
+insert 8Ball & MJG<SEP>Pimpin Dont Fail Me Now [Featuring Jazze Pha and Juvenile] (Explicit Album Version)
+insert Y&T<SEP>Black Tiger
+insert Barenaked Ladies<SEP>This Is Where It Ends (Album Version)
+insert Dons<SEP>American Lovebite
+insert Silverstein<SEP>Always And Never (Album Version)
+insert Placebo<SEP>The Never-Ending Why
+insert Green Day<SEP>Wake Me Up When September Ends (Live at Foxboro_ MA 9/3/05)
+print tree
+insert Mr. Lif<SEP>For You
+insert Akon<SEP>Over The Edge
+insert Silverstein<SEP>Always And Never (Album Version)
+insert Gerard Lenorman<SEP>Soldats Ne Tirez Pas
+insert Placebo<SEP>The Never-Ending Why
+insert Funeral For A Friend<SEP>Your Revolution Is A Joke
+insert Sylver<SEP>Sympathy
+insert Mr. Lif<SEP>For You
+print tree
+insert Tiny Bradshaw<SEP>Well Oh Well
+insert Teenage Fanclub<SEP>The Worldll Be OK
+insert Dream Warriors<SEP>Sound Clash (featuring Beenie Man) - FattaSly Extended Mix
+insert Rita Chiarelli<SEP>Doggin Around
+insert Johnny Winter<SEP>Be Careful With A Fool
+insert Charlie Peacock<SEP>Down in the Lowlands
+insert Aeoliah<SEP>For Your Passion My Love
+insert R.L. Burnside<SEP>Over The Hill
+insert Rita Chiarelli<SEP>Doggin Around
+print tree
+insert Johnny Winter<SEP>Be Careful With A Fool
+insert Rita Chiarelli<SEP>Doggin Around
+insert 8Ball & MJG<SEP>Pimpin Dont Fail Me Now [Featuring Jazze Pha and Juvenile] (Explicit Album Version)
+insert Chelsea<SEP>Decide
+insert David Arkenstone<SEP>The Forgotten Lands
+insert Faithless<SEP>Six
+remove artist Rita Chiarelli
+insert Aeoliah<SEP>For Your Passion My Love
+insert 8Ball & MJG<SEP>Pimpin Dont Fail Me Now [Featuring Jazze Pha and Juvenile] (Explicit Album Version)
+insert Gerard Lenorman<SEP>Soldats Ne Tirez Pas
+remove artist Rita Chiarelli
+print tree
+insert Barenaked Ladies<SEP>This Is Where It Ends (Album Version)
+insert 3 Doors Down<SEP>Sarah Yellin
+remove artist Rita Chiarelli
+insert Loop Guru<SEP>The Mystery Epoch
+insert Liquid Stranger<SEP>Drop Sacrifice
+insert Cheo Feliciano<SEP>Juguete
+insert Funeral For A Friend<SEP>Your Revolution Is A Joke
+insert Carl Smith<SEP>Hey Joe
+insert Samy Deluxe<SEP>Die Meisten
+remove song The Forgotten Lands
+insert Charlie Peacock<SEP>Down in the Lowlands
+insert Bruce Rowland<SEP>Mountain Theme
+insert Thomas Dolby<SEP>She Blinded Me With Science
+print tree
+insert Rita Chiarelli<SEP>Doggin Around
+insert David Arkenstone<SEP>The Forgotten Lands
+insert Kyle Riabko<SEP>Doesnt Get Much Better
+insert Tim Wilson<SEP>I Think My Wife Is Running Around On Me (Taco Hell)
+insert Gerard Lenorman<SEP>Soldats Ne Tirez Pas
+insert Teenage Fanclub<SEP>The Worldll Be OK
+insert Faithless<SEP>Six
+insert themselves<SEP>Oversleeping
+insert Dons<SEP>American Lovebite
+print tree
+insert Jesus Jones<SEP>All The Answers
+insert Tiny Bradshaw<SEP>Well Oh Well
+insert Y&T<SEP>Black Tiger
+insert R.L. Burnside<SEP>Over The Hill
+insert Tim Wilson<SEP>I Think My Wife Is Running Around On Me (Taco Hell)
+insert Charlie Peacock<SEP>Down in the Lowlands
+insert Y&T<SEP>Black Tiger
+insert Chelsea<SEP>Decide
+insert Thomas Dolby<SEP>She Blinded Me With Science
+print tree
+insert Audio Adrenaline<SEP>My God (Audio Adrenaline Album Version)
+insert All Time Low<SEP>Shameless
+insert Audio Adrenaline<SEP>My God (Audio Adrenaline Album Version)
+insert Rita Chiarelli<SEP>Doggin Around
+insert Delirious<SEP>God You Are My God
+insert Faithless<SEP>Six
+insert Funeral For A Friend<SEP>Your Revolution Is A Joke
+insert Tiny Bradshaw<SEP>Well Oh Well
+insert Sister Hazel<SEP>Cerilene
+insert Charlie Peacock<SEP>Down in the Lowlands
+remove artist Tiny Bradshaw
+print tree
+insert Sylver<SEP>Sympathy
+insert Y&T<SEP>Black Tiger
+insert Green Day<SEP>Wake Me Up When September Ends (Live at Foxboro_ MA 9/3/05)
+insert Barenaked Ladies<SEP>This Is Where It Ends (Album Version)
+insert Chris Clark<SEP>If You Should Walk Away
+insert Placebo<SEP>The Never-Ending Why
+insert Funeral For A Friend<SEP>Your Revolution Is A Joke
+print tree
+insert Tim Wilson<SEP>I Think My Wife Is Running Around On Me (Taco Hell)
+insert Sister Hazel<SEP>Cerilene
+insert Bruce Rowland<SEP>Mountain Theme
+insert 3 Doors Down<SEP>Sarah Yellin
+insert Y&T<SEP>Black Tiger
+insert Dead Kennedys<SEP>Kill the Poor
+insert Sister Hazel<SEP>Cerilene
+insert Samy Deluxe<SEP>Die Meisten
+remove song Mountain Theme
+print tree
+insert Bruce Rowland<SEP>Mountain Theme
+insert Tim Wilson<SEP>I Think My Wife Is Running Around On Me (Taco Hell)
+insert 3 Doors Down<SEP>Sarah Yellin
+insert David Arkenstone<SEP>The Forgotten Lands
+insert Chris Clark<SEP>If You Should Walk Away
+insert Paula Santoro<SEP>The Girl From Ipanema (Garota De Ipanema)
+insert Aeoliah<SEP>For Your Passion My Love
+insert Sylver<SEP>Sympathy
+insert Sylver<SEP>Sympathy
+insert DJ Quik<SEP>Born and Raised In Compton
+print tree
+insert Akon<SEP>Over The Edge
+insert Tim Wilson<SEP>I Think My Wife Is Running Around On Me (Taco Hell)
+insert Placebo<SEP>The Never-Ending Why
+insert Dons<SEP>American Lovebite
+insert Hot Chip<SEP>No
+insert Chelsea<SEP>Decide
+insert David Arkenstone<SEP>The Forgotten Lands
+insert Jesus Jones<SEP>All The Answers
+insert Y&T<SEP>Black Tiger
+insert themselves<SEP>Oversleeping
+insert Hot Chip<SEP>No
+print tree
+insert Dons<SEP>American Lovebite
+insert Chris Clark<SEP>If You Should Walk Away
+insert 8Ball & MJG<SEP>Pimpin Dont Fail Me Now [Featuring Jazze Pha and Juvenile] (Explicit Album Version)
+insert Funeral For A Friend<SEP>Your Revolution Is A Joke
+insert Aeoliah<SEP>For Your Passion My Love
+print tree
+insert Tim Wilson<SEP>I Think My Wife Is Running Around On Me (Taco Hell)
+insert Charlie Peacock<SEP>Down in the Lowlands
+insert Cheo Feliciano<SEP>Juguete
+print tree
+insert Faithless<SEP>Six
+insert Johnny Winter<SEP>Be Careful With A Fool
+insert Silverstein<SEP>Always And Never (Album Version)
+insert Aeoliah<SEP>For Your Passion My Love
+print tree
+insert Tiny Bradshaw<SEP>Well Oh Well
+insert Hot Chip<SEP>No
+remove song Well Oh Well
+insert Audio Adrenaline<SEP>My God (Audio Adrenaline Album Version)
+insert Kyle Riabko<SEP>Doesnt Get Much Better
+remove song Well Oh Well
+print tree
+insert Sister Hazel<SEP>Cerilene
+insert Rita Chiarelli<SEP>Doggin Around
+insert Dons<SEP>American Lovebite
+insert Happy Mondays<SEP>Wrote For Luck (12 - Remastered version)
+print tree
+insert Paula Santoro<SEP>The Girl From Ipanema (Garota De Ipanema)
+insert Carl Smith<SEP>Hey Joe
+remove song Hey Joe
+insert Rita Chiarelli<SEP>Doggin Around
+print tree

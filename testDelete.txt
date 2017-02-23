@@ -1,0 +1,13 @@
+insert Artist 1<SEP>Song 2
+insert Artist 1<SEP>Song 2
+insert Artist 1<SEP>Song 3
+insert new Artist<SEP>new Song
+insert Artist 2<SEP>Song 2
+insert Artist 3<SEP>Song 2
+print tree
+delete Artist 1<SEP>Song 1
+print tree
+delete new Artist<SEP>new Song
+print tree
+delete Artist 2<SEP>Song 2
+print tree

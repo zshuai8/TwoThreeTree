@@ -1,0 +1,4 @@
+print stuff
+stuff stuff
+remove stuff stuff
+insert stuff stuff
